@@ -4,6 +4,7 @@
 name: word2vec
 channels:
   - conda-forge
+  - damianavila82
 dependencies:
   - python = 3.5
   - ipython > 5.0
@@ -14,6 +15,9 @@ dependencies:
   - tensorflow
   - setuptools
   - psutil
-     
+  - pip
+  - rise
+  - pip:
+    - nbbrowserpdf
 # Start env:
 # $ source activate word2vec
