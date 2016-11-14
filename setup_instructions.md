@@ -28,7 +28,7 @@ Here is what works for me. I hope it works for you:
     - Wait...
     - Then start your environment by typing this command `$ source activate word2vec` in the terminal.
 4. Start the Jupyter Notebook 
-    - Type this command `$ Jupyter Notebook` in the terminal.
+    - Type this command `$ jupyter notebook` in the terminal.
     - Hopefully, it launches the notebook in your favorite web browser.
 
 Don't worry if this doesn't work for you - It doesn't mean that you are a bad person. You can try to Google/Stack Overflow for a solution to your issue but sometimes that might make it worse. It works better to introduce yourself to a neighbor and ask that person.  
